@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Trung Thịnh: Lãnh đạo Iwin – Nền tảng cá cược uy tín tại châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Trung Thịnh <https://iwin.mn/trung-thinh/>`_ là người đứng đầu cổng game Iwin, một trong những nền tảng cá cược uy tín và được yêu thích tại châu Á. Với tầm nhìn chiến lược và kinh nghiệm vững vàng trong ngành game online, Trung Thịnh đã lãnh đạo Iwin phát triển mạnh mẽ, thu hút hàng triệu người chơi trên toàn thế giới. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự chỉ đạo của ông, Iwin không ngừng đổi mới và cải tiến, mang đến cho người chơi những trải nghiệm giải trí đa dạng và hấp dẫn. CEO Trung Thịnh luôn cam kết xây dựng một môi trường chơi game công bằng, an toàn và bảo mật, giúp Iwin khẳng định vị thế dẫn đầu trong ngành cá cược trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2650 Đ. Phạm Thế Hiển, Street, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0845110014. 
 
-.. toctree::
+Email: contact@iwin.mn. 
 
-   usage
-   api
+Website: https://iwin.mn/trung-thinh/ 
+
+#trungthinh #ceotrungthinh #ceotrungthinh_iwin
